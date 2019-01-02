@@ -114,7 +114,7 @@ def changing_alan
      #alans_new_info = "GUI"
      
 end
-changing_alan
+
 
 def adding_to_dennis
 	programmer_hash = 
